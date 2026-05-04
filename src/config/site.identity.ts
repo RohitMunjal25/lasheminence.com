@@ -1,5 +1,5 @@
 export const siteIdentity = {
-  code: process.env.NEXT_PUBLIC_SITE_CODE || 'lasheminence',
+  code: process.env.NEXT_PUBLIC_SITE_CODE || 'le8q4x7m2v',
   name: process.env.NEXT_PUBLIC_SITE_NAME || 'Lash Eminence',
   tagline: process.env.NEXT_PUBLIC_SITE_TAGLINE || 'Business listing platform',
   description:
